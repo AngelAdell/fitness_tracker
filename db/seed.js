@@ -1,4 +1,7 @@
 const client = require('./client.js');
+const { createActivity } = require('./activities.js');
+const { createRoutine } = require('./routines.js');
+const { createRoutineActivity } = require('./routine_activities.js');
 
 
 const dropTables = async () => {
