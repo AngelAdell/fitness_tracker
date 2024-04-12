@@ -1,0 +1,14 @@
+{
+  "name": "unit4.fitnesstracker",
+  "version": "1.0.0",
+  "description": "First create the client.js file and initiate the local host",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.5"
+  }
+}
